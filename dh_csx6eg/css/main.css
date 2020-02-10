@@ -1,0 +1,339 @@
+/*****BASE STYLES*****/
+
+body{
+    
+    font-family: 'ABeeZee', sans-serif;
+   
+
+}
+
+
+
+#about #contact #portfolio{
+
+    height: 400px;
+    
+
+}
+
+
+
+/*****GRID*****/
+
+
+.full-width{
+
+    
+    margin: auto;
+    width: 1200px;
+    
+   
+}
+
+
+.half-width{
+
+    
+    float: left;
+    width: 600px;
+
+
+}
+
+
+.third-width{
+   
+
+    float: left;
+    width: 400px;
+    
+
+}
+
+
+    
+
+        
+  
+/*****HEADER*****/
+
+
+
+
+
+header{
+
+   
+    background: url('../img/my-lake.jpg');
+    background-size: cover;
+    height: 900px;
+
+
+}
+
+#header .half-width{
+
+    width: 600px;
+
+
+
+    
+}
+
+
+h1{
+
+    
+    color:#1a0000;
+    font-family:'ABeeZee', sans-serif;
+    font-size:30px;
+    margin: auto;
+    padding: 50px 40px;
+    
+
+
+
+}
+
+
+
+
+nav{
+
+    
+    float: right;
+    padding: 50px 40px;
+   
+
+
+}
+
+
+nav ul li{
+
+
+    display: inline-block;
+
+
+
+}
+
+    
+nav ul li a{
+
+
+    color:#1a0000;
+    font-size: 15px;
+    padding-left: 80px;
+    text-transform:capitalize;
+    text-decoration: none;
+        
+       
+        
+}
+
+
+
+/*****PORTFOLIO*****/
+
+
+    
+
+
+#portfolio {
+
+
+    background: rgb(228, 224, 216);
+    height: 400px;
+    padding: 80px;
+    text-align: center;
+
+    
+
+}
+
+
+#portfolio .third-width{
+
+
+    height: 400px;
+    width: 400px;
+
+
+}
+
+
+
+ #portfolio #rogue-pickings #jubilee-austen #holstee-manifesto h4{
+    
+    
+    clear: both;
+    float: left;
+    height: 400px;
+    margin: 20px 0 20px 0;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    text-align: center;
+    width: 400px;
+  
+
+}
+
+
+#portfolio img{
+
+
+    height: 300px;
+    padding-top: 20px;
+    width: 300px;
+
+
+}
+
+
+
+
+/*****ABOUT*****/
+
+
+
+#about{
+
+
+    background: rgb(211, 206, 198);
+    clear: both;
+    height: 400px;
+    text-align: center;
+    
+    
+}
+
+    
+#about .half-width{
+
+ 
+    height: 400px;
+    width: 600px;
+    
+
+}
+
+
+#about h2{
+
+
+    padding-top: 50px;
+
+
+}
+
+
+
+#about p{
+
+
+    
+    padding-left: 56.25px;
+    padding-right: 56.25px;
+    text-align: center;
+
+    
+}   
+    
+      
+    
+
+#about img {
+
+    
+    height: 325px;
+    margin-top: 37.5px;
+    padding-left: 112.5px;
+    width: 375px;
+    
+    
+
+}
+   
+
+
+/*****CONTACT*****/
+
+
+
+#contact{
+
+    
+    background: rgb(228, 224, 216);
+    height: 400px;
+    margin: auto;
+
+    
+   
+}
+    
+
+
+#contact .third-width{
+
+ 
+   
+    padding-top: 50px;
+    text-align: center;
+    width: 400px;
+    
+
+
+}
+ 
+
+#contact h2{
+
+
+    margin-top: 0px;
+    padding-top: 50px;
+    text-align: center;
+   
+   
+   
+}
+
+
+
+#contact h4 a ul li p{
+
+
+    text-align: center;
+
+
+
+}
+
+
+
+#contact img {
+
+
+    height: 25px;
+    width: 25px;
+    padding-right: 45px;
+
+    
+
+}
+
+
+
+
+#contact ul li{
+
+
+    display: block;
+
+
+
+}
+
+
+
+    
